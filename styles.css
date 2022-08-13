@@ -1,0 +1,87 @@
+
+.Perfil{
+    color: #fff;
+    padding: 5%;
+    background-image: url('/Cv/Fondo.jpg');
+    background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}  
+
+.Perfil h1{
+    padding: 2%;
+}  
+.Perfil p{
+    text-indent: 40px;
+    font-size: 20px;
+    margin: -3px;
+} 
+
+.sectionSkills{
+
+}
+.section{
+
+}
+.soft, .hard{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    
+}
+.soft h6, .hard h6{
+    font-size: 30px;
+    padding: 5%;
+    padding-right: 5rem;
+    text-align: center;
+    align-items: center;
+}
+.soft li{
+    font-size: 25px;
+}
+.Tabla{
+    display: flex;
+    justify-content: center;
+}
+.Tabla h6{
+    font-size: 26px;
+    display: flex;
+  justify-content: center;
+}
+.Tabla li{
+    font-size: 26px;
+}
+.TitleSkills{
+    padding: 15px;
+    align-items: center;
+    text-align: center;
+    font-size: 36px;
+}
+.svg{
+    width: 90px;
+}
+.wid{
+    width: 350px;
+}
+.TitleSkills{
+
+}
+.complemento{
+    display: flex;
+    justify-content: center;
+    padding: 3%;
+    font-size: 20px;
+    text-align: center;
+}
+.Contacto{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.section h1{
+    text-align: center;
+    padding-top: 3%;
+}
+.comp{
+    color: #fff;
+}
