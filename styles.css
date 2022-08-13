@@ -2,7 +2,7 @@
 .Perfil{
     color: #fff;
     padding: 5%;
-    background-image: url('/Cv/Fondo.jpg');
+    background-image: url('../Cv/Fondo.jpg');
     background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
