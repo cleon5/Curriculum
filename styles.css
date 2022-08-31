@@ -98,7 +98,10 @@
     align-items: center;
     align-self: center;
 }
-
+.center{
+    text-align: center;
+    align-items: center;
+}
 
 @media screen and (max-width: 1200px) {
     .wid{
